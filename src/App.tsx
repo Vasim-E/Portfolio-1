@@ -1,4 +1,4 @@
-import React, { useCallback } from 'react';
+import { useCallback } from 'react';
 import { useScrollSequence } from './hooks/useScrollSequence';
 import { Hero } from './components/Hero';
 import { Preloader } from './components/Preloader';
